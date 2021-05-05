@@ -12,5 +12,4 @@ Reference for our work
 |06|Covid-19: automatic detection from X-ray images utilizing transfer learning with convolutional neural networks|[Link](https://link.springer.com/article/10.1007/s13246-020-00865-4)|
 |07|4S-DT: Self Supervised Super Sample Decomposition for Transfer learning with application to COVID-19 detection|[Link](https://arxiv.org/abs/2007.11450)|
 |08|Prior-Attention Residual Learning for More Discriminative COVID-19 Screening in CT Images|[Link](https://ieeexplore.ieee.org/abstract/document/9094362)|
-|09|Chest X-ray image phase features for improved diagnosis of COVID-19 using convolutional neural network|[Link]
-(https://link.springer.com/article/10.1007/s11548-020-02305-w)
+|09|Chest X-ray image phase features for improved diagnosis of COVID-19 using convolutional neural network|[Link](https://link.springer.com/article/10.1007/s11548-020-02305-w)
