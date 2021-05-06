@@ -16,4 +16,4 @@ Reference for our work
 |10|Semi-Supervised Learning by Disentangling and Self-Ensembling over Stochastic Latent Space|[Link](https://arxiv.org/pdf/1907.09607.pdf)
 |11|Semi-supervised Classification of Diagnostic Radiographs with NoTeacher: A Teacher that is Not Mean|[Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_61)
 |12|GraphXNET− Chest X-Ray Classification Under Extreme Minimal Supervision|[Link](https://arxiv.org/pdf/1907.10085.pdf)
-|12|Chest X-ray image phase features for improved diagnosis of COVID-19 using convolutional neural network|[Link](https://link.springer.com/article/10.1007/s11548-020-02305-w)
+|13|Chest X-ray image phase features for improved diagnosis of COVID-19 using convolutional neural network|[Link](https://link.springer.com/article/10.1007/s11548-020-02305-w)
